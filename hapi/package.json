@@ -1,5 +1,5 @@
 {
-  "name": "bookshelf_api",
+  "name": "hapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^21.1.0"
+    "@hapi/hapi": "^21.1.0",
+    "nanoid": "^3.0.0"
   }
 }
